@@ -12,7 +12,7 @@ Load the firmware image.
 
 Set the fuse config according to the picture.
 
-(Picture goes here and you're supposed to fix it, dummy)
+![Fuse settings](https://github.com/UnforeseenOcean/arduino-uno-prog-config/raw/main/IMG1613925289.png)
 
 Click PROG button. You can also click READ to dump the chip if you're duplicating the chip for mass manufacturing.
 
